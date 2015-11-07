@@ -1,0 +1,1 @@
+C:\mongodb\bin\mongod.exe --dbpath E:\mongodata\paper-plane-db
